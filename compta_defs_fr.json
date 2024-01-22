@@ -1,0 +1,73 @@
+{
+    "Chiffre d'affaire": {
+        "color": "#afd095",
+        "stack": "Produits",
+        "postes": [
+            "Chiffre d'affaire",
+            "Vente autres produits",
+            "Vente de produits végétaux",
+            "Vente de marchandises (achat-revente)",
+            "Vente de marchandises",
+            "Produits financiers"
+        ]
+    },
+    "Aides": {
+        "color": "#729fcf",
+        "stack": "Produits",
+        "postes": [
+            "Aides",
+            "Autres aides",
+            "Aide à la certification",
+            "DPU, DPB",
+            "Subvention",
+            "Subventions"
+        ]
+    },
+    "Charges opérationnelles": {
+        "color": "#F28960",
+        "stack": "Charges",
+        "postes": [
+            "Fournitures diverses",
+            "Travaux par tiers",
+            "Bâches et voiles",
+            "Produits de traitements",
+            "Terreau",
+            "Achat des légumes (revente)",
+            "Achat des légumes",
+            "Fertilisation (MO)",
+            "Fertilisation",
+            "Semences et plants"
+        ]
+    },
+    "Charges de structure": {
+        "color": "#F5A893",
+        "stack": "Charges",
+        "postes": [
+            "Carburant",
+            "Entretien matériel",
+            "Eau, gaz, électricité",
+            "Frais de gestion",
+            "Certification",
+            "Fermage",
+            "Assurances",
+            "Autres"
+        ]
+    },
+    "Charges de personnel": {
+        "color": "#FDCF74",
+        "stack": "Charges",
+        "postes": [
+            "Salariés",
+            "Cotisations salariés",
+            "Cotisations exploitants"
+        ]
+    },
+    "EBE": {
+        "color": "#F8B26D",
+        "stack": "Charges",
+        "postes": [
+            "Prélèvements privés",
+            "EBE"
+        ]
+    }
+}
